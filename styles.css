@@ -9,3 +9,10 @@ h1 {
   color: white;
   text-align: center;
 }
+
+h2 {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
