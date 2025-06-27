@@ -1,5 +1,6 @@
 body {
   background-color: rgb(232, 220, 186);
+  margin: 0;
 }
 
 h1 {
@@ -8,6 +9,7 @@ h1 {
   font-size: 24px;
   color: white;
   text-align: center;
+  margin: 0;
 }
 
 h2 {
